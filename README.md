@@ -1,4 +1,4 @@
-# Kuku-reaching-agent
+# Kuka-reaching-agent
 ### AI-Powered Motion Planning for a Robotic Arm
 This project demonstrates a neural network, built with PyTorch, that learns to control a 6-DOF KUKA robotic arm in the PyBullet physics simulator. The agent's task is to perform a fundamental robotics skill: reaching a specific 3D target coordinate in its workspace.
 The project's core is a supervised learning approach where a fast, reflexive neural network is trained to approximate the results of a traditional, slower Inverse Kinematics (IK) solver.
