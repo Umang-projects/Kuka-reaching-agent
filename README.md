@@ -47,5 +47,4 @@ python test_and_visualize.py.
 
 ## Demo
 ![Demo_1](https://github.com/Umang-projects/Kuka-reaching-agent/blob/main/demo_1%20(1).gif)
-![Demo_2](https://github.com/Umang-projects/Kuka-reaching-agent/blob/main/demo_2%20(1).gif)
 
