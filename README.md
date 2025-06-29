@@ -33,18 +33,19 @@ Visualization: Matplotlib, ImageIO
 Clone the repository and install the required packages.
 use my file(clone here)
 cd your-repo-name
-pip install -r requirements.txt
+pip install -r requirements.txt.
 
 ### 2. Training
 While the repository includes a pre-trained model (`kuka_expert_brain.pth`), you can train a new agent from scratch.
 *This script was trained on Google Colab to leverage a free GPU.*
 # To run, upload the train.py and brain.py files to a Colab notebook and execute the notebook.
-python train.py
+python train.py.
 
 ### 3. Testing and Visualization
 To test the pre-trained kuka_expert_brain.pth model and generate a video of its performance, run:
-python test_and_visualize.py
+python test_and_visualize.py.
 
-
-
+## Demo
+![Demo_1](https://github.com/Umang-projects/Kuka-reaching-agent/blob/main/demo_1%20(1).gif)
+![Demo_2](https://github.com/Umang-projects/Kuka-reaching-agent/blob/main/demo_2%20(1).gif)
 
